@@ -1,0 +1,5 @@
+define KMACHINE warp
+define KTYPE standard
+define KARCH arm
+branch warp
+kconf hardware warp.cfg

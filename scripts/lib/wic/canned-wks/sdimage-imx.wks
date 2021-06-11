@@ -1,0 +1,2 @@
+part --source rawcopy --sourceparams="file=u-boot-dtb.imx" --ondisk mmcblk --no-table --align 1 --size 2M
+part / --source rootfs --ondisk mmcblk0 --fstype=ext4 --label root --active --align 4096
