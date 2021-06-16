@@ -29,7 +29,7 @@ below shall be checked out. The examples below will use /path/to/OE/ as a
 location of the metalayers.
 
 * https://source.denx.de/denx/meta-mainline-common.git			(branch: dunfell-3.1)
-* (***Link to be added) meta-warp.git		(branch: dunfell-3.1)
+* https://github.com/fabioestevam/meta-warp.git		(branch: dunfell)
 * git://git.yoctoproject.org/poky					(branch: dunfell)
 
 With all the source artifacts in place, proceed with setting up the build
